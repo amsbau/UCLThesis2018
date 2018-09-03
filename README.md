@@ -4,4 +4,4 @@ The code used to generate the experiments and results for my Thesis, "Predicting
 "Fix_data" contains code used to clean and prepare the datasets.
 "Preds" contains the code used to optimize each of the techniques and to make relevant predictions and final results. 
 "For_testing" contains the code used to run the experiments for the models that did NOT include mortgage data. 
-"Mort_for_testing" contains the code used to run the experiments for the models that DID include mortgage data. 
+"Mort_for_Testing" contains the code used to run the experiments for the models that DID include mortgage data. 
